@@ -14,7 +14,7 @@ relevant githubs and resources.
 - protocols/ : Alm lab experimental protocols
 - equipment/ : equipment-related information
 
-## Resources
+## comp-resources
 
 - 16S/ : information related to biological, experimental, and computational
 considerations involved in processing 16S data
