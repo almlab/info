@@ -1,3 +1,4 @@
+# HMP
 
 The raw data for HMP can be accessed on SRA via the run browser
 ([here](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP002395)).
@@ -15,3 +16,6 @@ tl;dr - it's probably best to just use the trimmed, deconvoluted fasta
 files in HM16STR. Thankfully Chris and Scott already did the hard work
 of downloading all those files! Files and associated documentation are
 on coyote: /net/radiodurans/alm/lab/data/hmp/trim/
+
+# authors
+- Claire Duvallet, 11/10/16
