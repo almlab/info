@@ -15,6 +15,9 @@ QIIME is great to do standard quick-and-dirty 16S processing.
 Members of the Alm lab frequently host workshops related to 16S processing.
 Copies of these files can be found in this folder.
 
+### Files
+- 16S_Workshop_Claire_Oct2016.pptx - workshop hosted by Claire in October 2016. Includes info on
+using the AWS pipeline to process data.
 
 # Contributors
 - Claire Duvallet, 11/10/16
