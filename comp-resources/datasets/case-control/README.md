@@ -21,16 +21,16 @@ crc_zhao | 2012 | CRC | 54 | 44 | 161 | 454 | V3
 crc_zhu | 2013 | CRC | 18 | 12 | 1835 | 454 | V3
 edd_singh | 2015 | EDD | 82 | 222 | 2573 | 454 | V3-V5
 hiv_dinh | 2015 | HIV | 15 | 21 | 3248 | 454 | V3-V5
-ibd_alm | 2012 | UC, | CD | 24 | 66 | 1303 | 454 | V3-V5
-ibd_eng | 2009 | UC, | CD | 32 | 32 | 2658 | 454 | V5-V6
+ibd_alm | 2012 | UC, CD | 24 | 66 | 1303 | 454 | V3-V5
+ibd_eng | 2009 | UC, CD | 32 | 32 | 2658 | 454 | V5-V6
 ibd_gevers | 2014 | CD | 16 | 146 | 9773 | Miseq | V4
-ibd_hut | 2012 | UC, | CD | 27 | 186 | 995 | 454 | V3-V5
-mhe_zhang | 2013 | CIRR, | MHE | 25 | 46 | 487 | 454 | V1-V2
-nash_baker | 2013 | NASH, | OB | 16 | 47 | 9904 | 454
+ibd_hut | 2012 | UC, CD | 27 | 186 | 995 | 454 | V3-V5
+mhe_zhang | 2013 | CIRR, MHE | 25 | 46 | 487 | 454 | V1-V2
+nash_baker | 2013 | NASH, OB | 16 | 47 | 9904 | 454
 nash_chan | 2013 | NASH | 22 | 32 | 1743 | 454 | V1-V2
-ob_escobar | 2014 | OW, | OB | 10 | 20 | 1126 | 454 | V1-V3
-ob_goodrich | 2014 | OW, | OB | 451 | 528 | 27364 | Miseq | V4
-ob_gord | 2009 | OW, | OB | 61 | 219 | 1569 | 454 | V2
+ob_escobar | 2014 | OW, OB | 10 | 20 | 1126 | 454 | V1-V3
+ob_goodrich | 2014 | OW, OB | 451 | 528 | 27364 | Miseq | V4
+ob_gord | 2009 | OW, OB | 61 | 219 | 1569 | 454 | V2
 ob_ross | 2015 | OB | 26 | 37 | 1583 | 454 | V1-V3
 ob_zup | 2012 | OB | 167 | 117 | 1392 | 454 | V1-V3
 par_schep | 2015 | PAR | 74 | 74 | 2351 | 454 | V1-V3
