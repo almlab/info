@@ -17,5 +17,5 @@ files in HM16STR. Thankfully Chris and Scott already did the hard work
 of downloading all those files! Files and associated documentation are
 on coyote: /net/radiodurans/alm/lab/data/hmp/trim/
 
-# authors
+# Contributors
 - Claire Duvallet, 11/10/16

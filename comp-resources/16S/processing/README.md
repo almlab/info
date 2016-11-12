@@ -16,5 +16,5 @@ Members of the Alm lab frequently host workshops related to 16S processing.
 Copies of these files can be found in this folder.
 
 
-# authors
+# Contributors
 - Claire Duvallet, 11/10/16

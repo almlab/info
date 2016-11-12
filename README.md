@@ -6,7 +6,7 @@ It contains two main directories: lab info and resources. Lab info
 contains logistics-type information about the Alm lab. Resources
 contains useful research and computing-related resources.
 
-## Lab info
+### Lab info
 
 - members.txt: a list of current and former Almstars, with links to
 relevant githubs and resources.
@@ -14,7 +14,7 @@ relevant githubs and resources.
 - protocols/ : Alm lab experimental protocols
 - equipment/ : equipment-related information
 
-## comp-resources
+### comp-resources
 
 - 16S/ : information related to biological, experimental, and computational
 considerations involved in processing 16S data
