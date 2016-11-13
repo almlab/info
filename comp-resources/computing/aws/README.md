@@ -5,7 +5,7 @@
 Lots of people in the Alm lab do compuational work. We have multiple resources as
 our disposal, the biggest of which are coyote and AWS.
 
-coyote is adminstrated by [greg] (alm-admin@techsquare.com). We pay to share this
+coyote is adminstrated by \[greg\] (alm-admin@techsquare.com). We pay to share this
 resource with a few other MIT labs. coyote has a different set of standards and use
 which are not covered in this document.
 
