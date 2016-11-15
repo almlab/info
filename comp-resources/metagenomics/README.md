@@ -1,4 +1,8 @@
 Man, there is just so much to learn about metagenomics!
 
-# authors
+# Info
+
+# Files
+
+# Contributors
 - it could be you!

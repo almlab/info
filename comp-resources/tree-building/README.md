@@ -1,4 +1,8 @@
 Wouldn't it be great to have the useful scripts y'all have all in one place?
 
-# authors
+# Info
+
+# Files
+
+# Contributors
 - It could be you!

@@ -15,7 +15,7 @@ An OTU-calling pipeline, github [here](https://github.com/swo/caravan). While yo
 use it to process raw data into OTU tables, you need to call each function separately
 (i.e. there is no integrated "press start, go make cookies, come back to an OTU table" function)
 
-The ```tools/''' directory has a lot of nifty helper functions to help you work
+The ```tools/``` directory has a lot of nifty helper functions to help you work
 with sequencing data.
 
 ### slime
@@ -23,7 +23,7 @@ with sequencing data.
 Basically a wrapper to run a bunch of random forests on your OTU tables and metadata.
 Github [here](https://github.com/cssmillie/slime). Original paper was this one (I think):
 
-```Papa, Eliseo, et al. "Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease." PloS one 7.6 (2012): e39242.```
+Papa, Eliseo, et al. "Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease." PloS one 7.6 (2012): e39242.```
 
 ### StrainFinder
 
@@ -35,7 +35,7 @@ Estimates correlation values from compositional data.  Available [here](https://
 
 Paper:
 
-```Friedman, Jonathan, and Eric J. Alm. "Inferring correlation networks from genomic survey data." PLoS Comput Biol 8.9 (2012): e1002687.```
+Friedman, Jonathan, and Eric J. Alm. "Inferring correlation networks from genomic survey data." PLoS Comput Biol 8.9 (2012): e1002687.
 
 # Contributors
 - Claire Duvallet, 11/10/16
