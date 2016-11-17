@@ -5,15 +5,15 @@
 Lots of people in the Alm lab do compuational work. We have multiple resources at
 our disposal, the biggest of which are coyote and AWS.
 
-coyote is adminstrated by \[greg\] (alm-admin@techsquare.com). We pay to share this
+coyote is adminstrated by \[greg\] (alm-admin[at]techsquare[dot]com). We pay to share this
 resource with a few other MIT labs. coyote has a different set of standards and use
 which are not covered in this document.
 
-AWS is administrated by Thomas Gurry (thomasgurry@gmail.com) and Xiaofang Jiang (xiaofang@mit.edu).
+AWS is administrated by Thomas Gurry (thomasgurry[at]gmail[dot]com) and Xiaofang Jiang (xiaofang[at]mit[dot]edu).
 The Alm lab pays for everything related to our AWS usage, and Thomas and Xiaofang
 are basically volunteering their time to administer this common resource.
 
-We have a Moira email list for computational-related things, alm-comp@mit.edu.
+We have a Moira email list for computational-related things, alm-comp[at]mit[dot]edu.
 You can add or remove yourself from this and other Moira lists at: groups.mit.edu/webmoira/ .
 
 
@@ -121,8 +121,8 @@ or forever hold your peace (if someone else changes/deletes them).
 [This repository](https://github.com/almlab/info) will hopefully serve as the central hub
 for all Alm lab-related resources. If something is missing, please add it!
 
-If you have a specific question and don't want to spam the whole almlab@mit.edu
-list, you can email alm-comp@mit.edu.
+If you have a specific question and don't want to spam the whole almlab email list
+list, you can email alm-comp[at]mit[dot]edu.
 
 Finally, please try to label your data and work in a way that other humans can
 understand. This will help current and future Almstars who may need to look at
