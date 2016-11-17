@@ -36,6 +36,8 @@ Everything we use AWS for costs money. The almlab node is used enough that we'll
 at all times, but if you're using an EC2 instance for something else that's specific to your work,
 please make sure to turn it off when you're not using it!
 
+## How to get setup or obtain access
+
 ## Pros and cons
 
 Using AWS has some sweet pros and very real cons.
