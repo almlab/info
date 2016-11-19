@@ -10,19 +10,22 @@ contains useful research and computing-related resources.
 
 - members.md: a list of current and former Almstars, with links to
 relevant githubs and resources.
-- protocols/ : Alm lab experimental protocols
 - equipment/ : equipment-related information
+- group-meetings/ : info about Alm lab group meetings (including schedule)
+- protocols/ : Alm lab experimental protocols
+- website/ : how to get added to the website
 - wet-lab-standards/ : common standards for working in the lab
 
 ### comp-resources
 
 - 16S/ : information related to biological, experimental, and computational
 considerations involved in processing 16S data
-- metagenomics/ : best practices(?) and tools for metagenomics work
-- tree-building/ : best practices(?) and tools for building phylogenetic trees
-- Alm-software/ : software developed by current and former Almstars
+- alm-software/ : software developed by current and former Almstars
+- aws/ : info about how we use AWS
 - computing/ : useful resources related to computer stuff (including AWS)
 - datasets/ : info about useful microbiome datasets that exist
+- metagenomics/ : best practices(?) and tools for metagenomics work
+- tree-building/ : best practices(?) and tools for building phylogenetic trees
 
 # How to contribute
 
@@ -83,7 +86,7 @@ Basically, the idea for this repo is for it to be as useful to as many Almstars 
 So if there's something you think would be useful to you or to others, feel free to include it!
 This includes, and is not limited to:
 - things you get asked about all the time and are tired of repeating
-- things you've figured out (sometimes the hard way) and want other people to have an easier time than you did
+- things you've figured out (sometimes the hard way) and want other people to have an easier time with than you did
   - installation instructions for a software that's missing a crucial dependency
   - how to download things from a database system that can be infuriating if you don't know where to look
 - information you always have to google or search through your email for, so that it's now in an easy
