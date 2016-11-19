@@ -75,7 +75,7 @@ before they can look at it.
 For the sake of simplicity and maximum usability, we're keeping this repo public.
 This means that anyone can see anything that you put in here. More specifically,
 this means that:   
-- You should not put any full emails in any files. Replace @ symbols with at
+- You should not put any full emails in any files. Replace `@` symbols with `at`
 so that spammy computer parsers don't recognize the emails!
 - You shouldn't post any data, software, or opinions that you aren't comfortable
 being public.
