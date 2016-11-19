@@ -74,10 +74,10 @@ before they can look at it.
 
 For the sake of simplicity and maximum usability, we're keeping this repo public.
 This means that anyone can see anything that you put in here. More specifically,
-this means that:
-1. You should not put any full emails in any files. Replace @ symbols with at
+this means that:   
+- You should not put any full emails in any files. Replace @ symbols with at
 so that spammy computer parsers don't recognize the emails!
-2. You shouldn't post any data, software, or opinions that you aren't comfortable
+- You shouldn't post any data, software, or opinions that you aren't comfortable
 being public.
 
 ## What should you include?
