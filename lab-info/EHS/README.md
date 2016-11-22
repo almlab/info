@@ -10,7 +10,8 @@ When you join the lab, there are several EHS-related tasks that you need to do t
     * Bloodborne pathogens: researchers
 Some of these may be completed online, while others will require a class at EHS.  You are recommended to sign up to the latter as quickly as possible to avoid delays in your ability to work in the wet lab.
 3.  Review the department's chemical hygiene program: https://ehs.mit.edu/site/content/chemical-hygiene-program
-4.  Download the clearance form (https://be-ehs.mit.edu/sites/default/files/documents/BE%20Clearform.pdf), complete it and obtain Eric's signature.
-5.  Request lab-specific training from EHS representative.  Bring the clearance form so it can be signed by the EHS rep.  They will then submit these, along with a lab-specific training sheet, to EHS so you can obtain approval.
+4.  Download the clearance form (https://be-ehs.mit.edu/sites/default/files/documents/BE%20Clearform.pdf), complete it and obtain Eric's signature.  _AFTER_ completing and obtaining Eric's signature, bring the form to the EHS rep for them to submit it on your behalf.
+5.  Request lab-specific training from EHS representative.  This should take approximately 30 minutes in the wet lab.  You will then complete the following training roster to confirm you have taken lab-specific training: https://be-ehs.mit.edu/sites/default/files/documents/EHS_class_signup_sheet_lab_specific.pdf
 
+Once you have done all of the above, you should be good to go!
 
