@@ -1,6 +1,9 @@
 # Environmental Health and Safety (EHS) for the Alm lab
 When you join the lab, there are several EHS-related tasks that you need to do to be cleared to work in the lab.  Before you can accomplish any of these tasks you need to obtain a Kerberos ID (your Kerberos is the username used to log onto MIT computers, and is your MIT email address as well).
 
+## General materials for EHS representative
+http://ehs.mit.edu/site/content/resources-training
+
 ## To do list
 1.  Read the following to get set up on Atlas: https://ehs.mit.edu/site/training
 2.  Take the required training modules.  For the Alm lab, which is BL2, in addition to whatever requirements are stated in your Atlas training center, you need to take:
