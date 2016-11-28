@@ -19,6 +19,12 @@ scp -i /path/login_key.pem myfile.txt ubuntu@9.9.9.9:/home/ubuntu/myfile.txt
  
 Note: if you have previously logged onto an instance with that IP and the IP has now been associated with a different instance, your SSH manager will complain.  If you get an error, check your ~/.ssh/known_hosts and remove the line with that IP, then try again.
 
+Note: Your SSH manager may also complain if your key has the wrong permissions. If you get an error about permissions, you can change them using chmod:
+
+```
+chmod 400 /path/login_key.pem
+```
+
 ### Access from a Windows machine
 In this case, you will need an SSH client.  We recommend PuTTY.  You will also have to convert the SSH key from PEM to PPK format using the PuTTYgen program, since PEM keys cannot be loaded into PuTTY.  Both PuTTY and PuTTYgen are available for free online.  Once you have done this, log in to the node by using username 'ubuntu', setting your IP, and loading the PPK key.
 
