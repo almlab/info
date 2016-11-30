@@ -42,13 +42,19 @@ as a member. Once you're added, you should have full push access to this repo!
 
 ## Quickstart commands
 You need to clone the full alm lab info repository to a local directory before making changes:
+
 $ git clone https://github.com/almlab/info
+
 (now edit and add files wherever you like!)
+
 $ git add <file(s) of your choice>
+
 $ git commit -m "message about why you are making these changes"
+
 $ git push
 
 If you already have the info repo cloned into your local git you can skip the first step and replace it with:
+
 $ git pull
 
 ## Contributing
