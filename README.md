@@ -52,9 +52,9 @@ go for it and clarify it!
 ### Quickstart commands
 You need to clone the full alm lab info repository to a local directory before making changes:  
 `$ git clone https://github.com/almlab/info`  
+`git config user.name "YOUR NAME HERE"`
+`git config user.email YOUR@EMAIL.HERE`
 (now edit and add files wherever you like!)  
-`git config user.name "YOUR NAME HERE"`  
-`git config user.email YOUR@EMAIL.HERE`  
 `$ git add <file(s) of your choice>`  
 `$ git commit -m "message about why you are making these changes"`  
 `$ git push`  
