@@ -47,6 +47,8 @@ possible. This means that if you see something missing, you should add it!
 If you see something wrong, you can fix it! If you see something unclear,
 go for it and clarify it!
 
+Remember to make sure the repo is up to date in your local directory before pushing changes!!
+
 ### Quickstart commands
 You need to clone the full alm lab info repository to a local directory before making changes:  
 `$ git clone https://github.com/almlab/info`  
@@ -54,7 +56,8 @@ You need to clone the full alm lab info repository to a local directory before m
 `$ git add <file(s) of your choice>`  
 `$ git commit -m "message about why you are making these changes"`  
 `$ git push`  
-If you already have the info repo cloned into your local git you can skip the first step and replace it with:  
+
+If you already have the info repo cloned into your local git you can skip the first step and replace it with:
 `$ git pull`  
 
 #### README.md files
