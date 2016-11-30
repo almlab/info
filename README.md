@@ -40,7 +40,14 @@ In order to contribute, you need to have your own GitHub account
 [member](https://github.com/orgs/almlab/people) of the almlab repo to add you
 as a member. Once you're added, you should have full push access to this repo!
 
-## Quickstart commands
+## Contributing
+
+We want the information in this repo to be as useful to as many people as
+possible. This means that if you see something missing, you should add it!
+If you see something wrong, you can fix it! If you see something unclear,
+go for it and clarify it!
+
+### Quickstart commands
 You need to clone the full alm lab info repository to a local directory before making changes:
 
 $ git clone https://github.com/almlab/info
@@ -56,13 +63,6 @@ $ git push
 If you already have the info repo cloned into your local git you can skip the first step and replace it with:
 
 $ git pull
-
-## Contributing
-
-We want the information in this repo to be as useful to as many people as
-possible. This means that if you see something missing, you should add it!
-If you see something wrong, you can fix it! If you see something unclear,
-go for it and clarify it!
 
 #### README.md files
 If you want a file that you add to automatically show up as text (like this
