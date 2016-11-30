@@ -40,7 +40,7 @@ To upload/download files from S3 using a terminal, you will need to install the 
 ```
 aws configure
 ```
-and you will be asked for an access key, a secret access key, the default region, and the default output format (the latter should be left blank, just press Enter).  On common lab resources (e.g. Alm lab nodes on EC2), these should be pre-configured and you don't need to install or configure the CLI.  On your home computer or laptop, you will need to obtain these keys from the systems administrators.  Once you have the CLI configured, you can use variants of the usual unix commands 'cp', 'ls', 'rm', as well as 'sync' (equivalent to 'rm -r', for folders) in the generic format 'aws s3 COMMAND FROM TO', e.g.
+and you will be asked for an access key, a secret access key, the default region, and the default output format (the latter should be left blank, just press Enter).  On common lab resources (e.g. Alm lab nodes on EC2), these should be pre-configured and you don't need to install or configure the CLI.  On your home computer or laptop, you will need to obtain these keys from the systems administrators.  Once you have the CLI configured, you can use variants of the usual unix commands 'cp', 'ls', 'rm', as well as 'sync' (more info [here](http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html)) in the generic format 'aws s3 COMMAND FROM TO', e.g.
 
 ```
 aws s3 ls s3://almlab.bucket/
