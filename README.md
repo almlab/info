@@ -49,20 +49,13 @@ go for it and clarify it!
 
 ### Quickstart commands
 You need to clone the full alm lab info repository to a local directory before making changes:
-
-$ git clone https://github.com/almlab/info
-
+`$ git clone https://github.com/almlab/info`
 (now edit and add files wherever you like!)
-
-$ git add <file(s) of your choice>
-
-$ git commit -m "message about why you are making these changes"
-
-$ git push
-
+`$ git add <file(s) of your choice>`
+`$ git commit -m "message about why you are making these changes"`
+`$ git push`
 If you already have the info repo cloned into your local git you can skip the first step and replace it with:
-
-$ git pull
+`$ git pull`
 
 #### README.md files
 If you want a file that you add to automatically show up as text (like this
