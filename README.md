@@ -6,27 +6,6 @@ It contains two main directories: lab-info and comp-resources. lab-info
 contains logistics-type information about the Alm lab. comp-resources
 contains useful research and computing-related resources.
 
-### Lab info
-
-- members.md: a list of current and former Almstars, with links to
-relevant githubs and resources.
-- equipment/ : equipment-related information
-- group-meetings/ : info about Alm lab group meetings (including schedule)
-- protocols/ : Alm lab experimental protocols
-- website/ : how to get added to the website
-- wet-lab-standards/ : common standards for working in the lab
-
-### comp-resources
-
-- 16S/ : information related to biological, experimental, and computational
-considerations involved in processing 16S data
-- alm-software/ : software developed by current and former Almstars
-- aws/ : info about how we use AWS
-- computing/ : useful resources related to computer stuff (including AWS)
-- datasets/ : info about useful microbiome datasets that exist
-- metagenomics/ : best practices(?) and tools for metagenomics work
-- tree-building/ : best practices(?) and tools for building phylogenetic trees
-
 # How to contribute
 
 We encourage all Alm lab users to contribute to this repo. If you
