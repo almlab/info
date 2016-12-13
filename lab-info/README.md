@@ -30,7 +30,7 @@ for a password, ask someone in the Alm lab for it.
 * Add a printer with IP address: 18.125.2.124
   * Select software, find Konica bizhub C454e PS
   * You might also need to select the non-default Protocol
-![](printer_setup.png =400x)
+![](printer_setup.png | width=400)
 * Get the right Finisher option (FS-534); all other defaults are fine
 
 # Other files
