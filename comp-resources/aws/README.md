@@ -193,3 +193,6 @@ Note: please be careful when using the CLI.  The Alm lab have several public buc
 
 ### Access via GUI
 You can also access S3 buckets via a GUI on the AWS console.  To log on to the AWS console, you need a username and password.  These can also be set by the systems administrators.
+
+You can sign in at [aws.amazon.com](https://aws.amazon.com) or, if that doesn't work, using the following alias:
+[https://cmit.signin.aws.amazon.com/console](https://cmit.signin.aws.amazon.com/console).
