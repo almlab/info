@@ -5,14 +5,16 @@
 # Group meetings
 
 The group meeting schedule is coordinated by Shandrina and can be found
-[here](https://docs.google.com/spreadsheets/d/17K3eK_GNoXbfFCrVFLCtRt8-y-yPYsn6nRgP5LRPi04/edit?usp=sharing).
+[here](https://docs.google.com/spreadsheets/d/17K3eK_GNoXbfFCrVFLCtRt8-y-yPYsn6nRgP5LRPi04/edit#gid=1242452859)
 
 # Adding yourself to the website
 
+Our lab website is at [almlab.mit.edu](http://almlab.mit.edu/).
+
 To add yourself to the website, follow the instructions [here](https://github.com/almlab/www/wiki/Add-new-member-content).
 
-As of December 2016, Claire Duvallet (duvallet[at]mit[dot]edu)
-is the person you should contact to get added to the website.# Schedule
+As of February 2017, Claire Duvallet (duvallet[at]mit[dot]edu)
+is the person you should contact to get added to the website.
 
 ## Unofficial group meetings
 
@@ -34,5 +36,4 @@ for a password, ask someone in the Alm lab for it.
 * Get the right Finisher option (FS-534); all other defaults are fine
 
 # Other files
-- members.md: current and former members, including links to their github accountsOur lab website is at [almlab.mit.edu](http://almlab.mit.edu/).
-
+- members.md: current and former members, including links to their github accounts
