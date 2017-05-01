@@ -7,14 +7,14 @@ No more worrying that Jimmy Switchblade
 upgraded AWS to Python v17.3, when all your 
 stuff runs on v1.3!
 
-## Overview of virtual environments
+# Overview of virtual environments
 
 There's a hierarchy of virtualization possible
 for your code, virtual environments solves some
 problems associated with making code shareable 
 and portable.
 
-# Basic hierarchy of containerization:
+## Basic hierarchy of containerization:
 
 Hardware level > Operating System > Program Level
 
