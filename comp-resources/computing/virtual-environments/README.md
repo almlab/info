@@ -19,9 +19,11 @@ and portable.
 Hardware level > Operating System > Program Level
 
 Examples:
+
 Memory and HDD > Windows v. Unix > Python v3 or v2
 
 Technical names (google them if you want to know more):
+
 Virtual machine > Docker Container > Virtual Environments
 
 So virtual environments solve some problems. They'll let 
