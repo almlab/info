@@ -24,12 +24,8 @@ on coyote: /net/radiodurans/alm/lab/data/hmp/trim/
 
 # Case control meta-analysis datasets
 
-As part of my (Claire's) meta-analysis project, I've collected and re-processed
-many case-control datasets from the raw data.
-
-Once my paper is published, I'll definitely make all the OTU tables and metadata
-files publicly available. For now, if you'd like to use one of these datasets,
-just email me.
+As part of my (Claire's) [meta-analysis](http://biorxiv.org/content/early/2017/05/08/134031), 
+I've collected and re-processed many case-control datasets from the raw data.
 
 ## Datasets
 
@@ -68,51 +64,18 @@ ra_scher | H | PSA, RA | 28 | 86 | 2013 | [link](http://dx.doi.org/10.7554/eLife
 t1d_alkanani | H | T1D | 55 | 57 | 2015 | [link](http://dx.doi.org/10.2337/db14-1847)
 t1d_mejialeon | H | T1D | 8 | 21 | 2014 | [link](http://dx.doi.org/10.1038/srep03814)
 
-And some more technical information about each dataset:
-
-dataset | min reads/sample | max reads | median reads | sequencer | region | data location | metadata
----------|---------|---------|---------|---------|---------|---------|---------
-asd_kang | 179 | 3350 | 1345 | 454 | V2-V3 | SRA study SRP017161 | SRA
-asd_son | 1985 | 9250 | 4777 | Miseq | V1-V2 | SRA study SRP057700 | SRA
-cdi_schubert | 536 | 15651 | 4670 | 454 | V3-V5 | [link](mothur.org/CDI_MicrobiomeModeling) | [link](mothur.org/CDI_MicrobiomeModeling)
-cdi_vincent | 904 | 19473 | 2526 | 454 | V3-V5 | email authors | email authors
-cdi_youngster | 4110 | 32672 | 14696 | Miseq | V4 | SRA study SRP040146 | email authors
-crc_baxter | 703 | 232464 | 9476 | Miseq | V4 | SRA study SRP062005 | SRA
-crc_chen | 575 | 3364 | 1152 | 454 | V1-V3 | SRA study SRP009633 | SRA sample description
-crc_wang | 101 | 515 | 161 | 454 | V3 | SRA study SRP005150 | SRA study description
-crc_zackular | 16379 | 234554 | 54269 | MiSeq | V4 | [link](mothur.org/MicrobiomeBiomarkerCRC) | [link](mothur.org/MicrobiomeBiomarkerCRC)
-crc_zeller | 28042 | 388997 | 120612 | MiSeq | V4 | ENA study PRJEB6070 | Table S1 and S2
-edd_singh | 389 | 10538 | 2585 | 454 | V3-V5 | [link](http://dx.doi.org/10.6084/m9.figshare.1447256) | Additional File 4
-hiv_dinh | 1675 | 11497 | 3248 | 454 | V3-V5 | SRA study SRP039076 | SRA
-hiv_lozupone | 816 | 27634 | 3262 | MiSeq | V4 | ENA study PRJEB4335 | Qiita study 1700
-hiv_noguerajulian | 225 | 231275 | 16506 | MiSeq | V3-V4 | SRA study SRP068240 | SRA
-ibd_gevers | 745 | 57387 | 9773 | Miseq | V4 | SRA study SRP040765 | Table S2
-ibd_morgan | 249 | 1617 | 1020 | 454 | V3-V5 | SRA study SRP015953 | [link](http://huttenhower.sph.harvard.edu/ibd2012)
-ibd_papa | 277 | 6494 | 1303 | 454 | V3-V5 | email authors | email authors
-ibd_willing | 162 | 2316 | 1118 | 454 | V5-V6 | email authors | email authors
-mhe_zhang | 102 | 2674 | 487 | 454 | V1-V2 | SRA study SRP015698 | SRA
-nash_wong | 708 | 2923 | 1980 | 454 | V1-V2 | SRA study SRP011160 | SRA
-nash_zhu | 2196 | 16552 | 9904 | 454 | V4 | MG-RAST, study mgp1195 | MG-RAST
-ob_goodrich | 3433 | 95825 | 27026 | Miseq | V4 | ENA studies PRJEB6702 and PRJEB6705 | ENA
-ob_ross | 994 | 15266 | 4562 | 454 | V1-V3 | SRA study SRP053023 | SRA
-ob_turnbaugh | 188 | 21102 | 1569 | 454 | V2 | [link](https://gordonlab.wustl.edu/NatureTwins_2008/TurnbaughNature_11_30_08.html) | Table S1
-ob_zhu | 2196 | 16552 | 9904 | 454 | V4 | same study as `nash_zhu` | MG-RAST
-ob_zupancic | 102 | 22478 | 1392 | 454 | V1-V3 | SRA study SRP002465 | SRA
-par_scheperjans | 916 | 4535 | 2351 | 454 | V1-V3 | ENA study PRJEB4927 | sample names
-ra_scher | 226 | 14779 | 2194 | 454 | V1-V2 | SRA study SRP023463 | SRA
-t1d_alkanani | 403 | 96428 | 9117 | MiSeq | V4 | email authors | email authors
-t1d_mejialeon | 1938 | 10154 | 4702 | 454 | V4 | email authors | email authors
-
+More information about each dataset can be found on my github in the `results_folders.yaml`
+[file](https://github.com/cduvallet/microbiomeHD/tree/master/data/user_input) and the
+tables [directory](https://github.com/cduvallet/microbiomeHD/tree/master/final/tables).
 
 ## Raw data
 
-The data is in the mbit.storage.bucket1 S3 bucket. Datasets are labeled
+The raw data is in the `mbit.storage.bucket1` S3 bucket. Datasets are labeled
 with the disease state first, and then either the first or last author, and the
 year of publication. Each folder should have a README explaining how I got the
 data and what processing I decided was necessary.
 
 ## OTU tables
 
-You can either re-process them yourselves using the pipeline (the respective
-S3 bucket should have the latest summary_file that I used to process the data).
-You can also email me (duvallet at mit dot edu)!
+Processed OTU tables are on Zenodo: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.569601.svg)](https://doi.org/10.5281/zenodo.569601)
