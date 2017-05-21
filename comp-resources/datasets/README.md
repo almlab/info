@@ -80,6 +80,6 @@ data and what processing I decided was necessary.
 Processed OTU tables are on Zenodo: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.569601.svg)](https://doi.org/10.5281/zenodo.569601)
 
-## 16S High-Res Time Series
+# 16S High-Res Time Series
 
 The processed OTU tables and metadata for the gut samples in [David et al., 2014](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-7-r89) and [Caporaso et al., 2011](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-5-r50) can be accessed [here](https://ndownloader.figshare.com/files/5665881).
