@@ -47,7 +47,7 @@ or task, that's really easy to do.
 - We generally have low enough usage that there's no need to set up a queue for jobs
 
 Cons:
-- We all have sudo access, and therefore can all accidentally screw things up 
+- We all have sudo access, and therefore can all accidentally screw things up
 - The tragedy of the commons
 
 # Data storage
@@ -155,8 +155,8 @@ Similarly, you can copy files to and from the instance using scp:
 
 ```
 scp -i /path/login_key.pem myfile.txt ubuntu@9.9.9.9:/home/ubuntu/myfile.txt
-```	
- 
+```
+
 Note: if you have previously logged onto an instance with that IP and the IP has now been associated with a different instance, your SSH manager will complain.  If you get an error, check your ~/.ssh/known_hosts and remove the line with that IP, then try again.
 
 Note: Your SSH manager may also complain if your key has the wrong permissions. If you get an error about permissions, you can change them using chmod:
@@ -166,9 +166,29 @@ chmod 400 /path/login_key.pem
 ```
 
 ### Access from a Windows machine
-In this case, you will need an SSH client.  We recommend PuTTY.  You will also have to convert the SSH key from PEM to PPK format using the PuTTYgen program, since PEM keys cannot be loaded into PuTTY.  Both PuTTY and PuTTYgen are available for free online.  Once you have done this, log in to the node by using username 'ubuntu', setting your IP, and loading the PPK key.
+In this case, you will need an SSH client.  We recommend PuTTY.  You will also have to convert the SSH key from PEM to PPK format using the PuTTYgen program, since PEM keys cannot be loaded into PuTTY.  Both PuTTY and PuTTYgen are available for free online.  
 
-To copy files to and from the instance from Windows, you will need an SCP client.  We recommend WinSCP.  This will operate in the same manner as PuTTY.  Simply set the username to 'ubuntu', the IP, and load the PPK key.
+#### Logging in for the first time
+
+Open up PuTTY. In the left side bar, go to `Connection > SSH > Auth`.
+Find the box where you can upload a private key file for authentication.
+Navigate to the PPK key file you made with PuTTYgen.
+
+Next, go to `Connection > data` and type in `ubuntu` as the user name.
+
+Go back to the first page, write in the IP that you were given.
+Now, give this session a name (like `almlab_aws`) and click `Save`.
+This saves your set up for next time!
+
+Now, click the `Open` at the bottom and you should be logged in!
+
+#### Logging in from a saved session
+
+If you saved the parameter configuration, you can just click on the session name (like `almlab_aws`), click `Load`, and then `Open`. Voila!
+
+#### Copying files
+
+To copy files to and from the instance from Windows, you will need an SCP client.  We recommend WinSCP.  This will operate in the same manner as PuTTY.  Simply set the username to `ubuntu`, the IP, and load the PPK key.
 
 
 ## Accessing storage space on S3
