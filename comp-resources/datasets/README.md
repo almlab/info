@@ -22,6 +22,12 @@ files in HM16STR. Thankfully Chris and Scott already did the hard work
 of downloading all those files! Files and associated documentation are
 on coyote: /net/radiodurans/alm/lab/data/hmp/trim/
 
+These deconvoluted files (as well as the bad SRA ones)
+are also now on S3: `almlab.bucket/lab/hmp`.
+
+There's probably an easier way/place to access these data. If you know it,
+you should update this with that info!
+
 # Case control meta-analysis datasets
 
 As part of my (Claire's) [meta-analysis](http://biorxiv.org/content/early/2017/05/08/134031), 
