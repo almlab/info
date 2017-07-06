@@ -1,10 +1,10 @@
 # computing
 
 ##### Table of Contents  
-[Github](#Github)  
-[NCBI Entrez Queries](#NCBI Entrez queries)   
-[Virtual Environments](#Virtual environments)   
-[Downloading from SRA](#Downloading from SRA)   
+[Github](#github)  
+[NCBI Entrez Queries](#ncbi-entrez-queries)   
+[Virtual Environments](#virtual-environments)   
+[Downloading from SRA](#downloading-from-sra)   
 
 # Github
 
