@@ -2,9 +2,9 @@
 
 ##### Table of Contents  
 [Github](#Github)  
-[NCBI Entrez Queries](#NCBI Entrez queries)  
-[Virtual Environments](#Virtual environments)
-[Downloading from SRA](#Downloading from SRA)
+[NCBI Entrez Queries](#NCBI Entrez queries)   
+[Virtual Environments](#Virtual environments)   
+[Downloading from SRA](#Downloading from SRA)   
 
 # Github
 
@@ -213,7 +213,7 @@ From http://www.ncbi.nlm.nih.gov/books/NBK158899/ :
 {wget/FTP/rsync} {rsync | ftp}://ftp-trace.ncbi.nih.gov/sra/sra-instant/reads/ByRun/sra/{SRR|ERR|DRR}/<first 6 characters of accession>/<accession>/<accession>.sra
 ```
 Where {SRR|ERR|DRR} should be either ‘SRR’, ‘ERR’, or ‘DRR’ and should match the prefix of the target .sra file
-		 
+
 And then you use `fastq-dump` to convert the sra file to a fastq:
 
 ```
