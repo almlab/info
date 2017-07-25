@@ -2,7 +2,7 @@
 
 For the first 15-ish minutes of each 
 [lab meeting](https://docs.google.com/spreadsheets/d/17K3eK_GNoXbfFCrVFLCtRt8-y-yPYsn6nRgP5LRPi04/edit#gid=1242452859), 
-we'll have 3-4 people run through 3-4 papers' figures. If we don't have lab meeting, we will still run journal club.
+we'll have 1-3 people run through 1-2 papers' figures. If we don't have lab meeting, we will still run journal club.
 
 We'll focus on the content, not so much the background (assumption is we have 
 most relevant background). It's like an espresso shot of science.
