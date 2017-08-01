@@ -159,7 +159,16 @@ scp -i /path/login_key.pem myfile.txt ubuntu@9.9.9.9:/home/ubuntu/myfile.txt
 
 Note: if you have previously logged onto an instance with that IP and the IP has now been associated with a different instance, your SSH manager will complain.  If you get an error, check your ~/.ssh/known_hosts and remove the line with that IP, then try again.
 
-Note: Your SSH manager may also complain if your key has the wrong permissions. If you get an error about permissions, you can change them using chmod:
+Note: Your SSH manager may also complain if your key has the wrong permissions. 
+If you get an error about permissions that looks something like:
+
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+
+then you can change them using `chmod`:
 
 ```
 chmod 400 /path/login_key.pem
