@@ -18,3 +18,5 @@ day of group meeting.
 
 If you don't want to deal with uploading your slides or don't know how, you can
 also email them to Isaac or Claire (irockafe or duvallet at mit dot edu).
+
+If you want to add animations to your slides, just make each step of the animation of a new slide. It works just the same!
