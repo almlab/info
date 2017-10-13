@@ -2,7 +2,7 @@
 > jupyter notebook
 
 Then on your laptop, got to https://ip-address:8888
-(replace ip-address with our aws IP, host is currently 8888, that could change)
+(replace ip-address with our AWS IP address, host is currently 8888, that could change)
 
 If you want the notebook to continue running after you log off, remember to run 
 > nohup jupyter notebook
