@@ -7,6 +7,9 @@ Then on your laptop, got to https://ip-address:8888
 If you want the notebook to continue running after you log off, remember to run 
 > nohup jupyter notebook
 
+## Troubleshooting ##
+If you're working on R in a conda environment, you need to install IRkernel: https://anaconda.org/r/r-irkernel
+
 <br><br>
 ### If you need to fix something, I followed this tutorial to get setup.
 To fix things, you might need to look at this directory (I did): */home/ubuntu/.local/share/jupyter*
